@@ -41,7 +41,7 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+  },
   "resolutions": {
     "graceful-fs": "4.2.1"
   }
